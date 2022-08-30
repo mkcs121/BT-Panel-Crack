@@ -7,6 +7,8 @@ yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_
 curl https://mod.nde.tw/bt/update.sh|bash
 ```
 
+提示绑定账号直接随意输入 11位数字 跟 1位 密码 就能登录
+
 ### You may also change the source of the script, just upload the files and change the path accordingly
 
 ## Guide to use on Google Cloud Platform
